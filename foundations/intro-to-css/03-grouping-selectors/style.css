@@ -1,0 +1,14 @@
+.wisdom .folly {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.wisdom {
+    background-color: black;
+    color: white;
+}
+
+.folly {
+    background-color: yellow;
+    color: lightseagreen;
+}
